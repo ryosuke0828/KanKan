@@ -13,5 +13,5 @@ https://github.com/user-attachments/assets/fdbc7f04-0827-443e-97a3-ae65796e17b7
 
 
 ### Acknowlegement
-This video was made by my coworker(https://github.com/Tomo021219). He also made large part of frontend user interface. The warikan calculation algorihtm was made by an other coworker(https://github.com/Tomo021219).
+This video was made by my coworker(https://github.com/Tomo021219). He also made large part of frontend user interface. The warikan calculation algorihtm was made by an other coworker(https://github.com/ken0200829).
 
